@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    background-color: rgb(252, 249, 249);
+    margin: 80px 0px 0px 100px;
+}
+
+.card1{
+    box-shadow: 0 4px 4px 0;
+    margin: 0px 300px 0px 0px;
+}
+
+.text{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.courses{
+    margin-top: 30px;
+    display: flex;
+}
+h5{
+margin-left: 30px;
+}
+a{
+    
+    color: black;
+    text-decoration: none;
+}
+
+.submit{
+    width: 10%;
+    height: 10%;
+    font-weight: bold;
+}
+
+.card{
+    width: 100%;
+    padding: 50px;
+    
+    margin-right: 30px;
+    background-color: rgb(251, 220, 220);
+    
+}
+
+.all{
+   margin-right: 10%;
+   display: flex;
+}
+
+.container1{
+    margin-left: 30px;
+}
+
+
+.i{
+    all:revert;
+    width: 110%;
+}
+
+table{
+    margin-left: 400px;
+    text-align: center;
+    font-size: large;
+}
